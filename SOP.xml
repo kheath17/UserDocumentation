@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sop>
-    <intro></intro>
+    <intro>Winter and Summer Sessions are shortened academic sessions which allow students to earn a minimum of 3 and a maximum of 9 additional credits per session. This manual will help you navigate the complicated system of websites, applications, and accounts that make up the registration process at Virginia Tech.  You will be directed to any applications that may need to be completed, any deadlines posted that you will need to know, and any databases that you will need access. You will be guided through the processes necessary to register for classes, as well as some other tasks. If at any point you have questions, please refer to the “Questions or Concerns” portion of this manual.</intro>
     <sessions>
             <session>
                 <url>summer.html</url>
-                <sessiontitle>Summer Sessions at Virginia Tech</sessiontitle>
-                <welcome>This is summer!!!! blah blah this is what you'll do.</welcome>
+                <sessiontitle>How to Register for Summer Sessions at Virginia Tech</sessiontitle>
+                <welcome>This section will inform you of the specifics in searching and signing up for classes in the Timetable of Classes and Hokie Spa.</welcome>
                 <tasks>
+                    <task>
+                        <tasktitle></tasktitle>
+                        <staging></staging>
+                        <ingredients>
+                            <ingredient>
+                                <item>Cell Phone</item>
+                            </ingredient>
+                            <ingredient>
+                                <item>A computer</item>
+                            </ingredient>
+                        </ingredients>
+                        <steps></steps>
+                        <summary></summary>
+                    </task>
                     <task>
                         <tasktitle></tasktitle>
                         <staging></staging>
